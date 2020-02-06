@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "ajv": "^6.11.0",
+    "arangojs": "^6.13.0",
+    "dotenv": "^8.2.0",
+    "fastify": "^2.11.0",
+    "fastify-cors": "^3.0.1",
+    "fastify-server-timeout": "^0.1.1",
+    "nodemon": "^2.0.2",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

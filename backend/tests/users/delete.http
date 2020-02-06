@@ -1,0 +1,4 @@
+DELETE http://0.0.0.0:3000/admin/users/9cd0a1e0-489f-11ea-b646-9b37bd0afffa
+Content-Type: application/json
+
+###

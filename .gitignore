@@ -1,0 +1,5 @@
+.bin
+.env
+docker-compose.yml
+.idea
+node_modules
